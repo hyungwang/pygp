@@ -1,3 +1,4 @@
+__Author__ = Olaitan 
 from tkinter import *
 import backend
 

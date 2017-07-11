@@ -1,3 +1,4 @@
+__Author__ = Olaitan
 class GP:
     def __init__(self):
         self.new_course = {}
