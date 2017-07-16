@@ -1,5 +1,6 @@
-__Author__ = Olaitan 
+__Author__ = 'Olaitan'
 from tkinter import *
+from tkinter.ttk import *
 import backend
 
 root = Tk()
